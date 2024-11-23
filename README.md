@@ -53,11 +53,15 @@ git clone https://github.com/Sridaya/CODTECH-Task1
 
 DEMO VIDEO
 
-![Demo Video]()
+(## Task 1 Demo Video Click [here](https://github.com/Sridaya/CODTECH-Task1/blob/main/Task%201%20demo%20video.mp4) to view the Task 1 demo video.)
 
 
 Open index.html in any modern browser to view the application.
+
 Internship Details in Offer Letter
+
 Mentor Name: Neela Santhosh
+
 Domain: Frontend Development
+
 Internship ID: CT08DS9364
