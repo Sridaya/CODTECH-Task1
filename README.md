@@ -29,8 +29,11 @@ Below is an example of the application's output:
 Repository Structure:
 
 graphql
+
 Copy code
+
 quiz-application/
+
 ├── index.html        # Main HTML file  
 ├── style.css         # Stylesheet for the project  
 ├── script.js         # JavaScript file for quiz logic  
@@ -38,9 +41,13 @@ quiz-application/
 └── README.md         # Project details and overview  
 How to Access the Code:
 
-Clone the repository:
+## Clone this repository
+
+You can clone this repository to your local system using the following command:
+
 bash
-Copy code
+git clone https://github.com/Sridaya/CODTECH-Task1
+
 
 Open index.html in any modern browser to view the application.
 Internship Details in Offer Letter
