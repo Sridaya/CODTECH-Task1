@@ -41,7 +41,7 @@ How to Access the Code:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/username/quiz-application.git  
+
 Open index.html in any modern browser to view the application.
 Internship Details in Offer Letter
 Mentor Name: Neela Santhosh
