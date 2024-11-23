@@ -51,6 +51,10 @@ You can clone this repository to your local system using the following command:
 bash
 git clone https://github.com/Sridaya/CODTECH-Task1
 
+DEMO VIDEO
+
+![Demo Video]()
+
 
 Open index.html in any modern browser to view the application.
 Internship Details in Offer Letter
