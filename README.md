@@ -24,8 +24,7 @@ JavaScript for dynamic quiz logic and interactivity.
 Output Screenshot:
 
 Below is an example of the application's output:
-![Overview image]("overview.png")
-
+![Overview of the Project](https://github.com/Sridaya/CODTECH-Task1/blob/main/overview.png?raw=true)
 
 Repository Structure:
 
