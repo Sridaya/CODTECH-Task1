@@ -1,9 +1,14 @@
 CodTech Internship Task 1
 Intern Details
-Name: Dayasri
+
+Name: Dayasri.K
+
 Internship ID: CT08DS9364
+
 Company: CodTech IT Solutions Pvt. Ltd.
+
 Domain: Frontend Web Development
+
 Duration: November 15, 2024 - December 15, 2024
 
 Task Overview
@@ -29,8 +34,6 @@ Below is an example of the application's output:
 Repository Structure:
 
 graphql
-
-Copy code
 
 quiz-application/
 
